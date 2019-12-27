@@ -1,2 +1,2 @@
 # java
-a beginner guide
+a simple beginner guide
