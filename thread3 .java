@@ -8,9 +8,9 @@ class thread3 extends Thread{
   }  
  }  
 public static void main(String args[]){  
- TestJoinMethod1 t1=new TestJoinMethod1();  
- TestJoinMethod1 t2=new TestJoinMethod1();  
- TestJoinMethod1 t3=new TestJoinMethod1();  
+ thread3 t1=new thread3();  
+ thread3 t2=new thread3();
+ thread3 t3=new thread3();
  t1.start();  
  try{  
   t1.join();  
