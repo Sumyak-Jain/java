@@ -6,6 +6,5 @@ public class buffered_writer {
         buff.write("hello peeps");
         buff.close();
         System.out.println("done");
-    }
-    
+    }   
 }
