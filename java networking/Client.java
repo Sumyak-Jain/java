@@ -1,4 +1,5 @@
-//making the client 
+//making the client
+//read-write only one side
 import java.io.*;
 import java.net.*;
 public class Client{
