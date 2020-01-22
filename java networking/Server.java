@@ -1,4 +1,5 @@
 //making server
+//read-write only one side
 import java.io.*;
 import java.net.*;
 public class Server{
