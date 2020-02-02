@@ -158,7 +158,8 @@ public class convert_temprature extends javax.swing.JFrame {
         // TODO add your handling code here:
     }                                         
 
-    private void clearActionPerformed(java.awt.event.ActionEvent evt) {                                      
+    private void clearActionPerformed(java.awt.event.ActionEvent evt) {                                     
+        //action performed by clear button
         temp.setText("");
         result.setText("");
     }                                     
