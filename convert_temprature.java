@@ -184,11 +184,7 @@ public class convert_temprature extends javax.swing.JFrame {
                 String result1=String.format("%.2f",r);
                 result.setText(result1);
                 
-            }
-            
-          
-
-            
+            } 
         } catch (NumberFormatException e) {
             result.setText("enter number");
         }
