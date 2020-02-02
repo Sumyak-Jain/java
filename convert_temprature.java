@@ -185,7 +185,7 @@ public class convert_temprature extends javax.swing.JFrame {
 
     private void calcActionPerformed(java.awt.event.ActionEvent evt) {                                     
         try {
-            double t=Double.parseDouble("temp.getText()");
+            double t=Double.parseDouble(temp.getText());
             double r;
             if(!(centigrade.isSelected()) && (farenheit.isSelected()))
             {result.setText("enter c & f");
