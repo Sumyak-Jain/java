@@ -1,9 +1,4 @@
 package practice_java;
-
-/**
- *
- * @author GAURAV
- */
 public class convert_temprature extends javax.swing.JFrame {
 
     /**
