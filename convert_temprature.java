@@ -1,4 +1,3 @@
-
 package practice_java;
 
 /**
