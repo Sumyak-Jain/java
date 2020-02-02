@@ -189,13 +189,14 @@ public class convert_temprature extends javax.swing.JFrame {
             double r;
             if(!(centigrade.isSelected()) && (farenheit.isSelected()))
             {result.setText("enter c & f");
-            }  else if(centigrade.isSelected()){
+            }
+            if(centigrade.isSelected()){
                 r=((t*9)/5)+32;
                 String result1=String.format("%.2f",r);
                 result.setText(result1);
                 
             }
-            else if(farenheit.isSelected()){
+            if(farenheit.isSelected()){
                 r=((t-32)*5)/9;
                 String result1=String.format("%.2f",r);
                 result.setText(result1);
