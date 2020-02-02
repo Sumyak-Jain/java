@@ -198,9 +198,6 @@ public class convert_temprature extends javax.swing.JFrame {
         // TODO add your handling code here:
     }                                          
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String args[]) {
       
         try {
@@ -219,7 +216,7 @@ public class convert_temprature extends javax.swing.JFrame {
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
             java.util.logging.Logger.getLogger(convert_temprature.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
-        //</editor-fold>
+       
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
