@@ -1,9 +1,5 @@
 package practice_java;
 public class convert_temprature extends javax.swing.JFrame {
-
-    /**
-     * Creates new form convert_temprature
-     */
     public convert_temprature() {
         initComponents();
     }
