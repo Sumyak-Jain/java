@@ -164,7 +164,8 @@ public class convert_temprature extends javax.swing.JFrame {
         result.setText("");
     }                                     
 
-    private void exitActionPerformed(java.awt.event.ActionEvent evt) {                                     
+    private void exitActionPerformed(java.awt.event.ActionEvent evt) {   
+        //action performed by exit button
         System.exit(0);
     }                                    
 
