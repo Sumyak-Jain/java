@@ -169,7 +169,8 @@ public class convert_temprature extends javax.swing.JFrame {
         System.exit(0);
     }                                    
 
-    private void calcActionPerformed(java.awt.event.ActionEvent evt) {                                     
+    private void calcActionPerformed(java.awt.event.ActionEvent evt) {   
+        //action performed by calc button
         try {
             double t=Double.parseDouble(temp.getText());
             double r;
