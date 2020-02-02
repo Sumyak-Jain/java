@@ -151,7 +151,7 @@ public class convert_temprature extends javax.swing.JFrame {
 
         setSize(new java.awt.Dimension(420, 343));
         setLocationRelativeTo(null);
-    }// </editor-fold>                        
+    }                      
 
     private void farenheitActionPerformed(java.awt.event.ActionEvent evt) {                                          
         // TODO add your handling code here:
