@@ -1,3 +1,4 @@
+//temprature converter application made using apache netbeans
 package practice_java;
 public class convert_temprature extends javax.swing.JFrame {
     public convert_temprature() {
