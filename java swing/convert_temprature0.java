@@ -5,8 +5,6 @@ public class convert0 extends javax.swing.JFrame {
     public convert0() {
         initComponents();
     }
-    @SuppressWarnings("unchecked")
-    // <editor-fold defaultstate="collapsed" desc="Generated Code">                          
     private void initComponents() {
 
         but_continue = new javax.swing.JToggleButton();
