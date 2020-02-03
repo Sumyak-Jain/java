@@ -48,9 +48,10 @@ public class convert0 extends javax.swing.JFrame {
 
         pack();
     }// </editor-fold>                        
-
+    //conecting one jframe to another jframe
     private void but_continueActionPerformed(java.awt.event.ActionEvent evt) {                                             
-        convert_temprature obj=new convert_temprature();
+        convert_temprature obj=new convert_temprature();//create obj of that class 
+        //p.s another frame should be in the same package
         obj.setVisible(true);
     }                                            
 
