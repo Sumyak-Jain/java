@@ -2,10 +2,6 @@
 package practice_java;
 
 public class convert0 extends javax.swing.JFrame {
-
-    /**
-     * Creates new form convert0
-     */
     public convert0() {
         initComponents();
     }
