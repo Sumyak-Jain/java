@@ -21,7 +21,7 @@ public class codered1 extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("CODERED");
 
-        jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 14)); 
         jLabel1.setText("Please enter your symptoms");
 
         symptom1.setText("symptom 1");
@@ -128,7 +128,7 @@ public class codered1 extends javax.swing.JFrame {
         );
 
         pack();
-    }// </editor-fold>                        
+    }                       
 
     private void symptom2ActionPerformed(java.awt.event.ActionEvent evt) {                                         
         // TODO add your handling code here:
@@ -147,9 +147,6 @@ public class codered1 extends javax.swing.JFrame {
         obj1.setVisible(true);
     }                                        
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String args[]) {
         /* Set the Nimbus look and feel */
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
