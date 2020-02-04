@@ -1,9 +1,4 @@
 package practice_java;
-
-/**
- *
- * @author GAURAV
- */
 public class codered1 extends javax.swing.JFrame {
 
     /**
