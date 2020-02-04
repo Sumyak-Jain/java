@@ -16,20 +16,20 @@ public class codered0 extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("CODERED");
 
-        welcome.setFont(new java.awt.Font("Cambria", 1, 24)); // NOI18N
+        welcome.setFont(new java.awt.Font("Cambria", 1, 24));
         welcome.setText("Welcome to");
 
-        codered.setFont(new java.awt.Font("Verdana", 1, 36)); // NOI18N
+        codered.setFont(new java.awt.Font("Verdana", 1, 36)); 
         codered.setForeground(new java.awt.Color(204, 0, 51));
         codered.setText("CODERED");
 
-        jLabel2.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
+        jLabel2.setFont(new java.awt.Font("Segoe UI", 0, 14)); 
         jLabel2.setText("Enter your age");
 
-        jLabel1.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Segoe UI", 0, 14));
         jLabel1.setText("We're here to help you. ");
 
-        jLabel3.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
+        jLabel3.setFont(new java.awt.Font("Segoe UI", 0, 14)); 
         jLabel3.setText("Please provide us with the following information");
 
         continue0.setText("continue..");
