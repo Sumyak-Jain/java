@@ -1,9 +1,4 @@
 package practice_java;
-
-/**
- *
- * @author GAURAV
- */
 public class codered0 extends javax.swing.JFrame {
 
     /** Creates new form codered0 */
