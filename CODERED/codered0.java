@@ -1,7 +1,5 @@
 package practice_java;
 public class codered0 extends javax.swing.JFrame {
-
-    /** Creates new form codered0 */
     public codered0() {
         initComponents();
     }
