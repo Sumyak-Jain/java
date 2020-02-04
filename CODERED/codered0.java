@@ -80,16 +80,12 @@ public class codered0 extends javax.swing.JFrame {
         );
 
         pack();
-    }// </editor-fold>                        
+    }                        
 
     private void continue0ActionPerformed(java.awt.event.ActionEvent evt) {                                          
         codered1 obj=new codered1();
         obj.setVisible(true);
     }                                         
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String args[]) {
         /* Set the Nimbus look and feel */
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
