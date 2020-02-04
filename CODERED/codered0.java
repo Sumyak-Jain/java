@@ -109,7 +109,6 @@ public class codered0 extends javax.swing.JFrame {
             }
         });
     }
-
     // Variables declaration - do not modify                     
     private javax.swing.JLabel codered;
     private javax.swing.JButton continue0;
