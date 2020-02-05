@@ -75,7 +75,7 @@ public class codered3 extends javax.swing.JFrame {
         );
 
         pack();
-    }// </editor-fold>                        
+    }                      
 
     private void jTextField2ActionPerformed(java.awt.event.ActionEvent evt) {                                            
         // TODO add your handling code here:
