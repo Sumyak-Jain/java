@@ -86,9 +86,6 @@ public class codered3 extends javax.swing.JFrame {
         objs.setVisible(true);
     }                                         
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String args[]) {
         try {
             for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
