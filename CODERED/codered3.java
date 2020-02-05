@@ -2,9 +2,7 @@ package practice_java;
 public class codered3 extends javax.swing.JFrame {
     public codered3() {
         initComponents();
-    }
-
-    // <editor-fold defaultstate="collapsed" desc="Generated Code">                          
+    }                          
     private void initComponents() {
 
         jLabel1 = new javax.swing.JLabel();
