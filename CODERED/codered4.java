@@ -36,10 +36,10 @@ public class codered4 extends javax.swing.JFrame {
         link2.setFont(new java.awt.Font("Segoe UI", 0, 14)); 
         link2.setText("link");
 
-        remedies2.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
+        remedies2.setFont(new java.awt.Font("Segoe UI", 0, 14)); 
         remedies2.setText("remedies");
 
-        jButton1.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
+        jButton1.setFont(new java.awt.Font("Segoe UI", 0, 14)); 
         jButton1.setText("continue..");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
