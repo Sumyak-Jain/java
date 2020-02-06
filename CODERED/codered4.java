@@ -92,7 +92,7 @@ public class codered4 extends javax.swing.JFrame {
         );
 
         pack();
-    }// </editor-fold>                        
+    }                        
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {                                         
         codered5 objs1 =new codered5();
