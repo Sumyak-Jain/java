@@ -18,22 +18,22 @@ public class codered4 extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("CODERED");
 
-        jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 18)); 
         jLabel1.setText("Following can be the problem you may be suffering from");
 
-        problem1.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
+        problem1.setFont(new java.awt.Font("Segoe UI", 0, 14)); 
         problem1.setText("problem 1");
 
-        link1.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
+        link1.setFont(new java.awt.Font("Segoe UI", 0, 14)); 
         link1.setText("link");
 
-        remedies1.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
+        remedies1.setFont(new java.awt.Font("Segoe UI", 0, 14)); 
         remedies1.setText("remedies");
 
-        problem2.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
+        problem2.setFont(new java.awt.Font("Segoe UI", 0, 14)); 
         problem2.setText("problem 2");
 
-        link2.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
+        link2.setFont(new java.awt.Font("Segoe UI", 0, 14)); 
         link2.setText("link");
 
         remedies2.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
