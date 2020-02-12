@@ -2,7 +2,7 @@
 import java.util.Scanner;
 public class Case{
     public static void main(String args[]){
-        int count=1;
+        int count=1;//intialize count to 1
         Scanner sc=new Scanner(System.in);
         String line=sc.nextLine();
         char[] ch=new char[line.length()];
