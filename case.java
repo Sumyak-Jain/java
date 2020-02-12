@@ -13,7 +13,7 @@ public class Case{
         }
         for(int i=0;i<line.length();i++){
             
-             if (ch[i] >= 'A' && ch[i] <= 'Z') {//check 
+             if (ch[i] >= 'A' && ch[i] <= 'Z') {//check when there is a uppercase letter and count++
                  count++;
              }
         }
