@@ -4,7 +4,7 @@ public class Case{
     public static void main(String args[]){
         int count=1;//intialize count to 1
         Scanner sc=new Scanner(System.in);
-        String line=sc.nextLine();
+        String line=sc.nextLine();//take input of the string and store it in line
         char[] ch=new char[line.length()];
         for(int i=0;i<line.length();i++){
             ch[i]=line.charAt(i);
