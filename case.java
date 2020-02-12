@@ -7,7 +7,7 @@ public class Case{
         String line=sc.nextLine();//take input of the string and store it in line
         char[] ch=new char[line.length()];//declare a char array of length of string
         for(int i=0;i<line.length();i++){
-            ch[i]=line.charAt(i);
+            ch[i]=line.charAt(i);//convert  input string into char array
         }
         for(int i=0;i<line.length();i++){
             
