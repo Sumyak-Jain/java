@@ -1,3 +1,4 @@
+//code to return the integer number of words in the input string
 import java.util.Scanner;
 public class Case{
     public static void main(String args[]){
