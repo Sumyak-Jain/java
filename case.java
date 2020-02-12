@@ -1,4 +1,5 @@
 //code to return the integer number of words in the input string
+//note. in input every new word is concatenated at the end of previous word and started with the uppercase
 import java.util.Scanner;
 public class Case{
     public static void main(String args[]){
@@ -11,7 +12,7 @@ public class Case{
         }
         for(int i=0;i<line.length();i++){
             
-             if (ch[i] >= 'A' && ch[i] <= 'Z') {
+             if (ch[i] >= 'A' && ch[i] <= 'Z') {//check 
                  count++;
              }
         }
