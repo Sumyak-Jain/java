@@ -18,7 +18,8 @@ public class static_method {
     public static void main(String[] args) {
         Student s1=new Student(106,"sumyak");
         //s1.display (this will print upes)
-        s1.change();//invoking static method
+        //s1.change(); invoking static method using object
+        Student.change();//invoking without object
         s1.display();
     }
 }
