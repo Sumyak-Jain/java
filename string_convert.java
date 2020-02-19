@@ -3,7 +3,7 @@
 public class string_convert {
     String funtn(String name){//take the input of the string
         String [] st=name.split(" ");//split the string entered using the split function
-        String str=" ";//declare a null string
+        String str=" ";//declare a empty string
         for(int i=0;i<st.length -1;i++){//apply the loop till length-1 because we want to store and print the last word full
             str=str+st[i].charAt(0)+".";//this will take the first element of every word of the string array
         }
