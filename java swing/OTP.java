@@ -1,4 +1,4 @@
-
+//java GUI of sending a automatic OTP to a given phone number and verifying it. used testlocal API.
 package practice_java;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
